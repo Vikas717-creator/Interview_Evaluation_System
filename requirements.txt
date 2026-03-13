@@ -1,0 +1,8 @@
+streamlit
+pandas
+plotly
+sentence-transformers
+scikit-learn
+numpy
+SpeechRecognition
+pyaudio

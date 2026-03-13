@@ -1,0 +1,99 @@
+[
+{"question":"What is Python?","answers":["python is a high level programming language","python is an interpreted language","python is a general purpose programming language"]},
+
+{"question":"What is a list in Python?","answers":["ordered mutable collection","list is an ordered sequence","list can store multiple elements"]},
+
+{"question":"What is a tuple?","answers":["immutable ordered collection","tuple cannot be modified","tuple stores fixed sequence of elements"]},
+
+{"question":"What is a dictionary in Python?","answers":["key value pair data structure","dictionary stores data in key value pairs","mapping of keys to values"]},
+
+{"question":"What is a set in Python?","answers":["unordered collection of unique elements","set contains unique values","set does not allow duplicates"]},
+
+{"question":"What is a variable in Python?","answers":["container for storing data","named reference to a value","variable holds data value"]},
+
+{"question":"What is indentation in Python?","answers":["whitespace used to define blocks","indentation defines code structure","spaces used for code blocks"]},
+
+{"question":"What is a function in Python?","answers":["block of reusable code","function performs specific task","function is reusable piece of code"]},
+
+{"question":"What is a class in Python?","answers":["blueprint for objects","class defines attributes and methods","class is template for creating objects"]},
+
+{"question":"What is an object?","answers":["instance of a class","object is created from class","object represents real world entity"]},
+
+{"question":"What is inheritance?","answers":["mechanism to inherit properties from parent class","child class acquires properties of parent class","code reuse using parent child relationship"]},
+
+{"question":"What is polymorphism?","answers":["same function name different behavior","ability to take many forms","method behaving differently based on context"]},
+
+{"question":"What is encapsulation?","answers":["binding data and methods together","data hiding in object oriented programming","protecting data inside class"]},
+
+{"question":"What is abstraction?","answers":["hiding implementation details","showing only essential features","simplifying complex systems"]},
+
+{"question":"What is a module in Python?","answers":["file containing python code","collection of functions and variables","python file used as library"]},
+
+{"question":"What is a package in Python?","answers":["collection of modules","directory containing python modules","package organizes modules"]},
+
+{"question":"What is pip?","answers":["python package installer","tool to install python libraries","package management system for python"]},
+
+{"question":"What is virtual environment?","answers":["isolated python environment","separate environment for dependencies","environment to manage project libraries"]},
+
+{"question":"What is list comprehension?","answers":["compact way to create lists","single line syntax for list creation","short syntax to generate lists"]},
+
+{"question":"What is lambda function?","answers":["anonymous function","function without name","small inline function"]},
+
+{"question":"What is recursion?","answers":["function calling itself","method where function repeats itself","self calling function"]},
+
+{"question":"What is exception handling?","answers":["handling runtime errors","using try except blocks","mechanism to manage program errors"]},
+
+{"question":"What is try except block?","answers":["used to catch exceptions","handles runtime errors","prevents program crash"]},
+
+{"question":"What is finally block?","answers":["code that always executes","block executed after try except","used for cleanup operations"]},
+
+{"question":"What is file handling?","answers":["reading and writing files","working with files in python","managing file input output"]},
+
+{"question":"What is open() function?","answers":["used to open files","function for file access","opens file for reading or writing"]},
+
+{"question":"What is read() method?","answers":["reads content of file","method to read file data","reads entire file"]},
+
+{"question":"What is write() method?","answers":["writes data to file","method to write into file","adds content to file"]},
+
+{"question":"What is append mode?","answers":["adds data at end of file","file mode to append content","writes without overwriting"]},
+
+{"question":"What is loop in Python?","answers":["used to repeat tasks","structure for repeated execution","iteration construct"]},
+
+{"question":"What is for loop?","answers":["loop used for iteration","iterates over sequence","used to traverse elements"]},
+
+{"question":"What is while loop?","answers":["loop that runs while condition true","repeats until condition becomes false","conditional loop"]},
+
+{"question":"What is break statement?","answers":["terminates loop","exits loop immediately","stops iteration"]},
+
+{"question":"What is continue statement?","answers":["skips current iteration","moves to next loop iteration","ignores remaining loop code"]},
+
+{"question":"What is pass statement?","answers":["null operation","placeholder statement","does nothing but required syntactically"]},
+
+{"question":"What is slicing in Python?","answers":["extracting part of sequence","access subset of elements","select range of items"]},
+
+{"question":"What is indexing?","answers":["access element by position","retrieve item using index","position based access"]},
+
+{"question":"What is mutable object?","answers":["object that can change","modifiable data structure","value can be updated"]},
+
+{"question":"What is immutable object?","answers":["object that cannot change","value cannot be modified","fixed data structure"]},
+
+{"question":"What are built in data types in Python?","answers":["list tuple set dictionary","int float string boolean","basic python data structures"]},
+
+{"question":"What is boolean type?","answers":["true or false value","logical data type","represents truth values"]},
+
+{"question":"What is string in Python?","answers":["sequence of characters","text data type","string represents textual data"]},
+
+{"question":"What is integer in Python?","answers":["whole number data type","numeric type without decimals","represents integer values"]},
+
+{"question":"What is float in Python?","answers":["decimal number data type","floating point number","numeric value with decimals"]},
+
+{"question":"What is type() function?","answers":["returns data type","used to check type of variable","shows variable type"]},
+
+{"question":"What is input() function?","answers":["takes user input","reads input from keyboard","accepts data from user"]},
+
+{"question":"What is print() function?","answers":["displays output","prints data to console","shows result on screen"]},
+
+{"question":"What is __init__ method?","answers":["constructor in python","initializes object","called when object created"]},
+
+{"question":"What is self in Python?","answers":["reference to current object","represents instance of class","used to access class variables"]}
+]
